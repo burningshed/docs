@@ -25,6 +25,7 @@ All of these should only be document in the exact same way here and **only an ov
    krillin
    land
    mako
+   peregrine
    nicki
    oneplus3
    pme
@@ -425,7 +426,7 @@ Devices
    * - :doc:`Moto G 2014 <titan>`
      - titan
      - Halium 7.1 working
-     - Kernel
+     - Kernel 
      - SoC
      - CPU
      - GPU
@@ -440,6 +441,25 @@ Devices
      - Display
      - Navigation
      - Sensors
+     - Other
+   * - :doc:`Moto G (1st Gen (LTE)) <peregrine>`
+     - peregrine
+     - Unknown
+     - 3.4.42-g89906d6 (10 Sep 2015)
+     - Qualcomm Snapdragon 400
+     - 1.2 GHz quad-core Cortex-A7
+     - Adreno 305
+     - 1 GB
+     - 8 GB (+ up to 32 MB microSD)
+     - GPS / GLONASS, Wi-Fi 802.11 b/g/n, Bluetooth 4.0, Micro-USB
+     - 1.3 MP
+     - 5 MP, 3.5mm focal length, f/2.4 aperture with LED flash and Touch Focus
+     - 2070 mAh Li-ion battery (Non-removable)
+     - Speaker/ 3.5 mm jack
+     - IPS LCD capacitive touchscreen, 16M colors
+     - 720 x 1280 pixels, 16:9 ratio
+     - A-GPS / GLONASS
+     - Accelerometer, proximity, compass
      - Other
    * - :doc:`Sony Xperia Z <yuga>`
      - yuga
