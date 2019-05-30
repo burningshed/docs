@@ -12,7 +12,7 @@ Status
 Halium
 ^^^^^^
 
-Of course we are mainly interested in Halium status. Therefore please state 
+No work started
 
 
 * Is someone already working on Halium for this device? If YES: link to repositories of **device specific files** (usually github repos called "android_device_manufacturer_codename") and **device kernel** (usually a repo beginning with "android\ *kernel*\ ") and name authors if possible (perhaps link to their github profile)
@@ -73,3 +73,5 @@ Useful Resources
 ^^^^^^^^^^^^^^^^^^
 
 If anything might be usefull but didn't fit above you can just throw in some links here.
+
+https://en.wikipedia.org/wiki/Moto_G_(1st_generation)
